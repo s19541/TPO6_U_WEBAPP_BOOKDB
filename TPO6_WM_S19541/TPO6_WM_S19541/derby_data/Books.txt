@@ -1,0 +1,18 @@
+1,"Wiedzmin Sezon burz",1,43.00
+2,"Wiedzmin Pani jeziora",1,20.50
+3,"Wiedzmin Krew elfow",1,25.75
+4,"Wiedzmin Wieza jaskolki",1,30.00
+5,"Harry Potter i Kamien Filozoficzny",2,20.00
+6,"Harry Potter i Czara Ognia",2,23.00
+7,"Harry Potter i Zakon Feniksa",2,30.00
+8,"Harry Potter i Ksiaze Polkrwi",2,32.50
+9,"Gra o tron Pieœñ lodu i ognia",3,35.99
+10,"Uczta dla wron Pieœñ lodu i ognia",3,43.99
+11,"Starcie królów Pieœñ lodu i ognia",3,39.43
+12,"Romeo i Julia",4,25.43
+13,"Makbet",4,20.00
+14,"Hamlet",4,20.00
+15,"Druzyna Pierscienienia",5,35.99
+16,"Dwie wieze",5,43.29
+17,"Powrot krola",5,30.00
+
